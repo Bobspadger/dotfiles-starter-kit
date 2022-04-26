@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 LOG="${HOME}/Library/Logs/dotfiles.log"
 GITHUB_USER="Bobspadger"
-GITHUB_REPO="dotfiles-starter-kit"
+GITHUB_REPO="dotfiles-work"
 USER_GIT_AUTHOR_NAME="Alex Hellier"
-USER_GIT_AUTHOR_EMAIL="alex.hellier@gmail.com"
+USER_GIT_AUTHOR_EMAIL="alex@absolutemusic.co.uk"
 DIR="/usr/local/opt/${GITHUB_REPO}"
 
 _process() {
